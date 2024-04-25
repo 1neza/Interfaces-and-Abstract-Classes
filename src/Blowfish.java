@@ -29,7 +29,7 @@ public class Blowfish extends Fish implements AnimalBehavior, AnimalMove {
     }
     @Override
     public void getVoice() {
-        System.out.println("Blowfis makes sounds.");
+        System.out.println("Blowfish makes sounds.");
     }
 
     public int getDiameter() {
